@@ -1,0 +1,415 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tour start="node1" apprev="20025" appversion="7.0.10">
+  <panorama id="node1" hideabout="1">
+    <input height="4396" levelingroll="0" leveltileurl="tiles/node1/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4396" leveltilesize="510" levelingpitch="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" height="4396" width="4396" preload="0"/>
+      <level predecode="0" height="2198" width="2198" preload="0"/>
+      <level predecode="0" height="1099" width="1099" preload="0"/>
+      <level predecode="0" height="549" width="549" preload="0"/>
+      <level predecode="1" height="274" width="274" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" fov="157.308" pan="-0.17383" tilt="-0.422207"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" fovfisheye="360" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata info="" heading="0" title="거실" latitude="" source="" copyright="" description="" tags="오창 더샵 99C" nodeid="node1" customnodeid="" author="" longitude="" datetime="2017-11-18 오후 9:02" comment=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label height="20" bordercolor="0x000000" enabled="1" borderalpha="1" borderradius="1" textalpha="1" width="180" background="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" border="1" wordwrap="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot id="Point03" target="" url="{node3}" pan="-188.27" title="다이닝룸" tilt="-25.09" skinid="ht_node" description=""/>
+      <hotspot id="Point02" target="" url="{node9}" pan="-92.4" title="침실1" tilt="-22.36" skinid="ht_node" description=""/>
+      <hotspot id="Point01" target="" url="{node10}" pan="-276.19" title="침실2" tilt="-24.98" skinid="ht_node" description=""/>
+      <hotspot id="Point04" target="" url="{node14}" pan="-266.86" title="현관" tilt="-3.72" skinid="ht_node" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomout="0" enabled="1" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafteroutfov="40" blendtime="1" zoomoutpause="1" delay="none" zoomspeed="2" softedge="0" zoomafterinfov="140"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedmouse="0" lockedwheel="0" simulatemass="1" rubberband="0" invertcontrol="1" contextfullscreen="1" lockedkeyboard="0" dblclickfullscreen="0" sensitivity="8" contextvr="1" contextprojections="0" lockedkeyboardzoom="0" invertwheel="0" hideabout="1" zoomcentercursor="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node9" hideabout="1">
+    <input height="4400" levelingroll="0" leveltileurl="tiles/node9/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4400" leveltilesize="510" levelingpitch="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" height="4400" width="4400" preload="0"/>
+      <level predecode="0" height="2200" width="2200" preload="0"/>
+      <level predecode="0" height="1100" width="1100" preload="0"/>
+      <level predecode="0" height="550" width="550" preload="0"/>
+      <level predecode="1" height="275" width="275" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" fov="157.308" pan="-1.21422" tilt="-1.14712"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" fovfisheye="360" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata info="" heading="0" title="침실1" latitude="" source="" copyright="" description="" tags="오창 더샵 99C" nodeid="node9" customnodeid="" author="" longitude="" datetime="2017-11-18 오후 6:15" comment=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label height="20" bordercolor="0x000000" enabled="1" borderalpha="1" borderradius="1" textalpha="1" width="180" background="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" border="1" wordwrap="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot id="Point01" target="" url="{node1}" pan="-258.57" title="거실" tilt="-27.13" skinid="ht_node" description=""/>
+      <hotspot id="Point02" target="" url="{node12}" pan="-144.74" title="파우더룸" tilt="-37.73" skinid="ht_node" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomout="0" enabled="1" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafteroutfov="40" blendtime="1" zoomoutpause="1" delay="none" zoomspeed="2" softedge="0" zoomafterinfov="140"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedmouse="0" lockedwheel="0" simulatemass="1" rubberband="0" invertcontrol="1" contextfullscreen="1" lockedkeyboard="0" dblclickfullscreen="0" sensitivity="8" contextvr="1" contextprojections="0" lockedkeyboardzoom="0" invertwheel="0" hideabout="1" zoomcentercursor="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node12" hideabout="1">
+    <input height="4409" levelingroll="0" leveltileurl="tiles/node12/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4409" leveltilesize="510" levelingpitch="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" height="4409" width="4409" preload="0"/>
+      <level predecode="0" height="2204" width="2204" preload="0"/>
+      <level predecode="0" height="1102" width="1102" preload="0"/>
+      <level predecode="0" height="551" width="551" preload="0"/>
+      <level predecode="1" height="275" width="275" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" fov="157.308" pan="0.17264" tilt="0.116382"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" fovfisheye="360" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata info="" heading="0" title="파우더룸" latitude="" source="" copyright="" description="" tags="오창 더샵 99C" nodeid="node12" customnodeid="" author="" longitude="" datetime="" comment=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label height="20" bordercolor="0x000000" enabled="1" borderalpha="1" borderradius="1" textalpha="1" width="180" background="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" border="1" wordwrap="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot id="Point01" target="" url="{node9}" pan="-249.46" title="침실1" tilt="-24.94" skinid="ht_node" description=""/>
+      <hotspot id="Point02" target="" url="{node6}" pan="-145.56" title="욕실2" tilt="-48.59" skinid="ht_node" description=""/>
+      <hotspot id="Point03" target="" url="{node4}" pan="-93.47" title="드레스룸" tilt="-38.58" skinid="ht_node" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomout="0" enabled="1" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafteroutfov="40" blendtime="1" zoomoutpause="1" delay="none" zoomspeed="2" softedge="0" zoomafterinfov="140"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedmouse="0" lockedwheel="0" simulatemass="1" rubberband="0" invertcontrol="1" contextfullscreen="1" lockedkeyboard="0" dblclickfullscreen="0" sensitivity="8" contextvr="1" contextprojections="0" lockedkeyboardzoom="0" invertwheel="0" hideabout="1" zoomcentercursor="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node4" hideabout="1">
+    <input height="4407" levelingroll="0" leveltileurl="tiles/node4/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4407" leveltilesize="510" levelingpitch="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" height="4407" width="4407" preload="0"/>
+      <level predecode="0" height="2203" width="2203" preload="0"/>
+      <level predecode="0" height="1101" width="1101" preload="0"/>
+      <level predecode="0" height="550" width="550" preload="0"/>
+      <level predecode="1" height="275" width="275" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" fov="157.308" pan="0.750821" tilt="-8.25354"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" fovfisheye="360" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata info="" heading="0" title="드레스룸" latitude="" source="" copyright="" description="" tags="오창 더샵 99C" nodeid="node4" customnodeid="" author="" longitude="" datetime="2017-11-18 오후 6:23" comment=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label height="20" bordercolor="0x000000" enabled="1" borderalpha="1" borderradius="1" textalpha="1" width="180" background="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" border="1" wordwrap="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot id="Point01" target="" url="{node12}" pan="-175.82" title="파우더룸" tilt="-35.05" skinid="ht_node" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomout="0" enabled="1" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafteroutfov="40" blendtime="1" zoomoutpause="1" delay="none" zoomspeed="2" softedge="0" zoomafterinfov="140"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedmouse="0" lockedwheel="0" simulatemass="1" rubberband="0" invertcontrol="1" contextfullscreen="1" lockedkeyboard="0" dblclickfullscreen="0" sensitivity="8" contextvr="1" contextprojections="0" lockedkeyboardzoom="0" invertwheel="0" hideabout="1" zoomcentercursor="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node10" hideabout="1">
+    <input height="4405" levelingroll="0" leveltileurl="tiles/node10/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4405" leveltilesize="510" levelingpitch="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" height="4405" width="4405" preload="0"/>
+      <level predecode="0" height="2202" width="2202" preload="0"/>
+      <level predecode="0" height="1101" width="1101" preload="0"/>
+      <level predecode="0" height="550" width="550" preload="0"/>
+      <level predecode="1" height="275" width="275" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" fov="157.308" pan="4.15906" tilt="-1.04356"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" fovfisheye="360" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata info="" heading="0" title="침실2" latitude="" source="" copyright="" description="" tags="오창 더샵 99C" nodeid="node10" customnodeid="" author="" longitude="" datetime="2017-11-18 오후 6:25" comment=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label height="20" bordercolor="0x000000" enabled="1" borderalpha="1" borderradius="1" textalpha="1" width="180" background="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" border="1" wordwrap="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot id="Point01" target="" url="{node1}" pan="-135.46" title="거실" tilt="-33.1" skinid="ht_node" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomout="0" enabled="1" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafteroutfov="40" blendtime="1" zoomoutpause="1" delay="none" zoomspeed="2" softedge="0" zoomafterinfov="140"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedmouse="0" lockedwheel="0" simulatemass="1" rubberband="0" invertcontrol="1" contextfullscreen="1" lockedkeyboard="0" dblclickfullscreen="0" sensitivity="8" contextvr="1" contextprojections="0" lockedkeyboardzoom="0" invertwheel="0" hideabout="1" zoomcentercursor="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node11" hideabout="1">
+    <input height="4408" levelingroll="0" leveltileurl="tiles/node11/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4408" leveltilesize="510" levelingpitch="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" height="4408" width="4408" preload="0"/>
+      <level predecode="0" height="2204" width="2204" preload="0"/>
+      <level predecode="0" height="1102" width="1102" preload="0"/>
+      <level predecode="0" height="551" width="551" preload="0"/>
+      <level predecode="1" height="275" width="275" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" fov="157.308" pan="21.1402" tilt="-1.51899"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" fovfisheye="360" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata info="" heading="0" title="침실3" latitude="" source="" copyright="" description="" tags="오창 더샵 99C" nodeid="node11" customnodeid="" author="" longitude="" datetime="2017-11-18 오후 6:29" comment=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label height="20" bordercolor="0x000000" enabled="1" borderalpha="1" borderradius="1" textalpha="1" width="180" background="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" border="1" wordwrap="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot id="Point02" target="" url="{node1}" pan="-153.79" title="거실" tilt="-35.51" skinid="ht_node" description=""/>
+      <hotspot id="Point01" target="" url="{node13}" pan="-159.92" title="팬트리" tilt="-8.42" skinid="ht_node" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomout="0" enabled="1" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafteroutfov="40" blendtime="1" zoomoutpause="1" delay="none" zoomspeed="2" softedge="0" zoomafterinfov="140"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedmouse="0" lockedwheel="0" simulatemass="1" rubberband="0" invertcontrol="1" contextfullscreen="1" lockedkeyboard="0" dblclickfullscreen="0" sensitivity="8" contextvr="1" contextprojections="0" lockedkeyboardzoom="0" invertwheel="0" hideabout="1" zoomcentercursor="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node8" hideabout="1">
+    <input height="4413" levelingroll="0" leveltileurl="tiles/node8/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4413" leveltilesize="510" levelingpitch="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" height="4413" width="4413" preload="0"/>
+      <level predecode="0" height="2206" width="2206" preload="0"/>
+      <level predecode="0" height="1103" width="1103" preload="0"/>
+      <level predecode="0" height="551" width="551" preload="0"/>
+      <level predecode="1" height="275" width="275" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" fov="157.308" pan="-89.8788" tilt="-1.01292"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" fovfisheye="360" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata info="" heading="0" title="주방" latitude="" source="" copyright="" description="" tags="오창 더샵 99C" nodeid="node8" customnodeid="" author="" longitude="" datetime="2017-11-18 오후 6:12" comment=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label height="20" bordercolor="0x000000" enabled="1" borderalpha="1" borderradius="1" textalpha="1" width="180" background="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" border="1" wordwrap="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot id="Point01" target="" url="{node3}" pan="-264.24" title="다이닝룸" tilt="-13.09" skinid="ht_node" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomout="0" enabled="1" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafteroutfov="40" blendtime="1" zoomoutpause="1" delay="none" zoomspeed="2" softedge="0" zoomafterinfov="140"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedmouse="0" lockedwheel="0" simulatemass="1" rubberband="0" invertcontrol="1" contextfullscreen="1" lockedkeyboard="0" dblclickfullscreen="0" sensitivity="8" contextvr="1" contextprojections="0" lockedkeyboardzoom="0" invertwheel="0" hideabout="1" zoomcentercursor="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node2" hideabout="1">
+    <input height="4406" levelingroll="0" leveltileurl="tiles/node2/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4406" leveltilesize="510" levelingpitch="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" height="4406" width="4406" preload="0"/>
+      <level predecode="0" height="2203" width="2203" preload="0"/>
+      <level predecode="0" height="1101" width="1101" preload="0"/>
+      <level predecode="0" height="550" width="550" preload="0"/>
+      <level predecode="1" height="275" width="275" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" fov="157.308" pan="1.1314" tilt="0.103095"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" fovfisheye="360" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata info="" heading="0" title="다용도실" latitude="" source="" copyright="" description="" tags="오창 더샵 99C" nodeid="node2" customnodeid="" author="" longitude="" datetime="2017-11-18 오후 6:13" comment=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label height="20" bordercolor="0x000000" enabled="1" borderalpha="1" borderradius="1" textalpha="1" width="180" background="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" border="1" wordwrap="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot id="Point01" target="" url="{node3}" pan="-207.58" title="다이닝룸" tilt="-7.41" skinid="ht_node" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomout="0" enabled="1" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafteroutfov="40" blendtime="1" zoomoutpause="1" delay="none" zoomspeed="2" softedge="0" zoomafterinfov="140"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedmouse="0" lockedwheel="0" simulatemass="1" rubberband="0" invertcontrol="1" contextfullscreen="1" lockedkeyboard="0" dblclickfullscreen="0" sensitivity="8" contextvr="1" contextprojections="0" lockedkeyboardzoom="0" invertwheel="0" hideabout="1" zoomcentercursor="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node13" hideabout="1">
+    <input height="4406" levelingroll="0" leveltileurl="tiles/node13/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4406" leveltilesize="510" levelingpitch="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" height="4406" width="4406" preload="0"/>
+      <level predecode="0" height="2203" width="2203" preload="0"/>
+      <level predecode="0" height="1101" width="1101" preload="0"/>
+      <level predecode="0" height="550" width="550" preload="0"/>
+      <level predecode="1" height="275" width="275" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" fov="157.308" pan="0.200537" tilt="-0.46365"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" fovfisheye="360" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata info="" heading="0" title="팬트리" latitude="" source="" copyright="" description="" tags="오창 더샵 99C" nodeid="node13" customnodeid="" author="" longitude="" datetime="2017-11-18 오후 6:31" comment=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label height="20" bordercolor="0x000000" enabled="1" borderalpha="1" borderradius="1" textalpha="1" width="180" background="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" border="1" wordwrap="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot id="Point01" target="" url="{node11}" pan="-184.84" title="침실3" tilt="-24.46" skinid="ht_node" description=""/>
+      <hotspot id="Point02" target="" url="{node1}" pan="-211.4" title="거실" tilt="-40.73" skinid="ht_node" description=""/>
+      <hotspot id="Point03" target="" url="{node14}" pan="-152.46" title="현관" tilt="-44.98" skinid="ht_node" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomout="0" enabled="1" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafteroutfov="40" blendtime="1" zoomoutpause="1" delay="none" zoomspeed="2" softedge="0" zoomafterinfov="140"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedmouse="0" lockedwheel="0" simulatemass="1" rubberband="0" invertcontrol="1" contextfullscreen="1" lockedkeyboard="0" dblclickfullscreen="0" sensitivity="8" contextvr="1" contextprojections="0" lockedkeyboardzoom="0" invertwheel="0" hideabout="1" zoomcentercursor="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node3" hideabout="1">
+    <input height="4409" levelingroll="0" leveltileurl="tiles/node3/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4409" leveltilesize="510" levelingpitch="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" height="4409" width="4409" preload="0"/>
+      <level predecode="0" height="2204" width="2204" preload="0"/>
+      <level predecode="0" height="1102" width="1102" preload="0"/>
+      <level predecode="0" height="551" width="551" preload="0"/>
+      <level predecode="1" height="275" width="275" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" fov="157.308" pan="0.203111" tilt="-0.462476"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" fovfisheye="360" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata info="" heading="0" title="다이닝룸" latitude="" source="" copyright="" description="" tags="오창 더샵 99C" nodeid="node3" customnodeid="" author="" longitude="" datetime="2017-11-18 오후 9:04" comment=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label height="20" bordercolor="0x000000" enabled="1" borderalpha="1" borderradius="1" textalpha="1" width="180" background="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" border="1" wordwrap="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot id="Point01" target="" url="{node1}" pan="-277.7" title="거실" tilt="-13.21" skinid="ht_node" description=""/>
+      <hotspot id="Point02" target="" url="{node14}" pan="-249.66" title="현관" tilt="-19.15" skinid="ht_node" description=""/>
+      <hotspot id="Point03" target="" url="{node2}" pan="334.25" title="다용도실" tilt="-11.56" skinid="ht_node" description=""/>
+      <hotspot id="Point04" target="" url="{node8}" pan="-119.13" title="주방" tilt="-23.47" skinid="ht_node" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomout="0" enabled="1" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafteroutfov="40" blendtime="1" zoomoutpause="1" delay="none" zoomspeed="2" softedge="0" zoomafterinfov="140"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedmouse="0" lockedwheel="0" simulatemass="1" rubberband="0" invertcontrol="1" contextfullscreen="1" lockedkeyboard="0" dblclickfullscreen="0" sensitivity="8" contextvr="1" contextprojections="0" lockedkeyboardzoom="0" invertwheel="0" hideabout="1" zoomcentercursor="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node7" hideabout="1">
+    <input height="4423" levelingroll="0" leveltileurl="tiles/node7/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4423" leveltilesize="510" levelingpitch="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" height="4423" width="4423" preload="0"/>
+      <level predecode="0" height="2211" width="2211" preload="0"/>
+      <level predecode="0" height="1105" width="1105" preload="0"/>
+      <level predecode="0" height="552" width="552" preload="0"/>
+      <level predecode="1" height="276" width="276" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" fov="157.308" pan="0.418008" tilt="-0.358862"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" fovfisheye="360" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata info="" heading="0" title="전실" latitude="" source="" copyright="" description="" tags="오창 더샵 99C" nodeid="node7" customnodeid="" author="" longitude="" datetime="" comment=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label height="20" bordercolor="0x000000" enabled="1" borderalpha="1" borderradius="1" textalpha="1" width="180" background="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" border="1" wordwrap="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot id="Point01" target="" url="{node5}" pan="-265.72" title="욕실1" tilt="-34.39" skinid="ht_node" description=""/>
+      <hotspot id="Point02" target="" url="{node10}" pan="-74.45" title="침실2" tilt="-18.25" skinid="ht_node" description=""/>
+      <hotspot id="Point03" target="" url="{node1}" pan="-118.73" title="거실" tilt="-34.6" skinid="ht_node" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomout="0" enabled="1" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafteroutfov="40" blendtime="1" zoomoutpause="1" delay="none" zoomspeed="2" softedge="0" zoomafterinfov="140"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedmouse="0" lockedwheel="0" simulatemass="1" rubberband="0" invertcontrol="1" contextfullscreen="1" lockedkeyboard="0" dblclickfullscreen="0" sensitivity="8" contextvr="1" contextprojections="0" lockedkeyboardzoom="0" invertwheel="0" hideabout="1" zoomcentercursor="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node5" hideabout="1">
+    <input height="4405" levelingroll="0" leveltileurl="tiles/node5/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4405" leveltilesize="510" levelingpitch="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" height="4405" width="4405" preload="0"/>
+      <level predecode="0" height="2202" width="2202" preload="0"/>
+      <level predecode="0" height="1101" width="1101" preload="0"/>
+      <level predecode="0" height="550" width="550" preload="0"/>
+      <level predecode="1" height="275" width="275" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" fov="157.308" pan="2.49762" tilt="-0.198202"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" fovfisheye="360" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata info="" heading="0" title="욕실1" latitude="" source="" copyright="" description="" tags="오창 더샵 99C" nodeid="node5" customnodeid="" author="" longitude="" datetime="2017-11-18 오후 6:44" comment=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label height="20" bordercolor="0x000000" enabled="1" borderalpha="1" borderradius="1" textalpha="1" width="180" background="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" border="1" wordwrap="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot id="Point01" target="" url="{node7}" pan="-91.11" title="전실" tilt="-37.98" skinid="ht_node" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomout="0" enabled="1" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafteroutfov="40" blendtime="1" zoomoutpause="1" delay="none" zoomspeed="2" softedge="0" zoomafterinfov="140"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedmouse="0" lockedwheel="0" simulatemass="1" rubberband="0" invertcontrol="1" contextfullscreen="1" lockedkeyboard="0" dblclickfullscreen="0" sensitivity="8" contextvr="1" contextprojections="0" lockedkeyboardzoom="0" invertwheel="0" hideabout="1" zoomcentercursor="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node6" hideabout="1">
+    <input height="4408" levelingroll="0" leveltileurl="tiles/node6/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4408" leveltilesize="510" levelingpitch="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" height="4408" width="4408" preload="0"/>
+      <level predecode="0" height="2204" width="2204" preload="0"/>
+      <level predecode="0" height="1102" width="1102" preload="0"/>
+      <level predecode="0" height="551" width="551" preload="0"/>
+      <level predecode="1" height="275" width="275" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" fov="157.308" pan="-0.904236" tilt="-1.75278"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" fovfisheye="360" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata info="" heading="0" title="욕실2" latitude="" source="" copyright="" description="" tags="오창 더샵 99C" nodeid="node6" customnodeid="" author="" longitude="" datetime="2017-11-18 오후 6:40" comment=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label height="20" bordercolor="0x000000" enabled="1" borderalpha="1" borderradius="1" textalpha="1" width="180" background="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" border="1" wordwrap="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot id="Point01" target="" url="{node12}" pan="-65.16" title="파우더룸" tilt="-41.07" skinid="ht_node" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomout="0" enabled="1" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafteroutfov="40" blendtime="1" zoomoutpause="1" delay="none" zoomspeed="2" softedge="0" zoomafterinfov="140"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedmouse="0" lockedwheel="0" simulatemass="1" rubberband="0" invertcontrol="1" contextfullscreen="1" lockedkeyboard="0" dblclickfullscreen="0" sensitivity="8" contextvr="1" contextprojections="0" lockedkeyboardzoom="0" invertwheel="0" hideabout="1" zoomcentercursor="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node14" hideabout="1">
+    <input height="4409" levelingroll="0" leveltileurl="tiles/node14/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4409" leveltilesize="510" levelingpitch="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" height="4409" width="4409" preload="0"/>
+      <level predecode="0" height="2204" width="2204" preload="0"/>
+      <level predecode="0" height="1102" width="1102" preload="0"/>
+      <level predecode="0" height="551" width="551" preload="0"/>
+      <level predecode="1" height="275" width="275" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" fov="157.308" pan="90.1192" tilt="-2.31796"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" fovfisheye="360" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata info="" heading="0" title="현관" latitude="" source="" copyright="" description="" tags="오창 더샵 99C" nodeid="node14" customnodeid="" author="" longitude="" datetime="" comment=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label height="20" bordercolor="0x000000" enabled="1" borderalpha="1" borderradius="1" textalpha="1" width="180" background="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" border="1" wordwrap="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot id="Point02" target="" url="{node15}" pan="-361.28" title="현관창고" tilt="-25.89" skinid="ht_node" description=""/>
+      <hotspot id="Point01" target="" url="{node11}" pan="-251.13" title="침실3" tilt="-27.16" skinid="ht_node" description=""/>
+      <hotspot id="Point03" target="" url="{node7}" pan="-283.35" title="전실" tilt="-22.71" skinid="ht_node" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomout="0" enabled="1" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafteroutfov="40" blendtime="1" zoomoutpause="1" delay="none" zoomspeed="2" softedge="0" zoomafterinfov="140"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedmouse="0" lockedwheel="0" simulatemass="1" rubberband="0" invertcontrol="1" contextfullscreen="1" lockedkeyboard="0" dblclickfullscreen="0" sensitivity="8" contextvr="1" contextprojections="0" lockedkeyboardzoom="0" invertwheel="0" hideabout="1" zoomcentercursor="1" speedwheel="1"/>
+  </panorama>
+  <panorama id="node15" hideabout="1">
+    <input height="4423" levelingroll="0" leveltileurl="tiles/node15/cf_%c/l_%l/c_%x/tile_%y.jpg" width="4423" leveltilesize="510" levelingpitch="0" levelbias="0.400" overlap="1" levelbiashidpi="1.000">
+      <level predecode="0" height="4423" width="4423" preload="0"/>
+      <level predecode="0" height="2211" width="2211" preload="0"/>
+      <level predecode="0" height="1105" width="1105" preload="0"/>
+      <level predecode="0" height="552" width="552" preload="0"/>
+      <level predecode="1" height="276" width="276" preload="1"/>
+      <preview strip="1" color="0x808080"/>
+    </input>
+    <view pannorth="0" fovmode="2">
+      <start projection="4" fov="157.308" pan="92.4977" tilt="-0.109181"/>
+      <flyin projection="9" fov="170" pan="0" tilt="-90"/>
+      <min fovpixel="2" pan="0" tilt="-90"/>
+      <max scaletofit="1" fov="140" pan="360" fovfisheye="360" tilt="90" fovstereographic="330"/>
+    </view>
+    <userdata info="" heading="0" title="현관창고" latitude="" source="" copyright="" description="" tags="오창 더샵 99C" nodeid="node15" customnodeid="" author="" longitude="" datetime="2023-08-26 오후 5:50" comment=""/>
+    <hotspots height="20" smoothmovement="0" width="180" wordwrap="1">
+      <label height="20" bordercolor="0x000000" enabled="1" borderalpha="1" borderradius="1" textalpha="1" width="180" background="1" textcolor="0x000000" backgroundcolor="0xffffff" backgroundalpha="1" border="1" wordwrap="1"/>
+      <polystyle mode="0" bordercolor="0x0000ff" handcursor="1" backgroundcolor="0x0000ff" backgroundalpha="0.25098" borderalpha="1"/>
+      <hotspot id="Point01" target="" url="{node14}" pan="-179.22" title="현관" tilt="-37.47" skinid="ht_node" description=""/>
+    </hotspots>
+    <media/>
+    <transition type="crossdissolve" zoomout="0" enabled="1" zoomfov="40" blendcolor="0x000000" zoomin="0" zoomafteroutfov="40" blendtime="1" zoomoutpause="1" delay="none" zoomspeed="2" softedge="0" zoomafterinfov="140"/>
+    <animation useinautorotation="0" syncanimationwithvideo="0" animsequence="Animation01" clipsrandom="0"/>
+    <control lockedmouse="0" lockedwheel="0" simulatemass="1" rubberband="0" invertcontrol="1" contextfullscreen="1" lockedkeyboard="0" dblclickfullscreen="0" sensitivity="8" contextvr="1" contextprojections="0" lockedkeyboardzoom="0" invertwheel="0" hideabout="1" zoomcentercursor="1" speedwheel="1"/>
+  </panorama>
+  <masternode>
+    <userdata comment="" tags="" author="" title="" copyright="" description=""/>
+    <animationsequences>
+      <sequence title="Animation01"/>
+    </animationsequences>
+  </masternode>
+</tour>
